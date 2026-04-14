@@ -4,7 +4,7 @@
 
 NetworkPE is a WinPE with full network functionality. You can use for computer maintenance or as a portable RAMOS, It runs in RAM and is extremely fast.
 
-[Download](https://www.networkpe.top)
+<a href="https://www.networkpe.top" target="_blank">Download</a>
 
 ![](assets/NetworkPE1.jpg)
 
